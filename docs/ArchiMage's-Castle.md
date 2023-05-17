@@ -1,7 +1,0 @@
-### [Fence](https://github.com/ArchiMageAlex/smarthome/wiki/Fence)
-### [Land plot](https://github.com/ArchiMageAlex/smarthome/wiki/Land-plot)
-### [Home](https://github.com/ArchiMageAlex/smarthome/wiki/Home)
-### [Sauna](https://github.com/ArchiMageAlex/smarthome/wiki/Sauna)
-### [Pavilion](https://github.com/ArchiMageAlex/smarthome/wiki/Pavilion)
-### [Garage](https://github.com/ArchiMageAlex/smarthome/wiki/Garage)
-### [Pool](https://github.com/ArchiMageAlex/smarthome/wiki/Pool)
